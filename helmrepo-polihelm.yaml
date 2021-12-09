@@ -6,5 +6,5 @@ metadata:
   namespace: flux-system
 spec:
   interval: 1m0s
-  url: https://polimallela.github.io/helm-chart/
+  url: https://polimallela.github.io/arhelm-chart/
 
